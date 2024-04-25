@@ -1,11 +1,17 @@
 
 
 How to Navigate
+
 Clone the repository : git clone https://github.com/Alao001/vehiclesTrading
+
 Navigate to the repository : cd vehiclestrading
-Install the requied dependencies 
+
+Install the requied dependencies
+
 Install sCrypt Ord  : npm i scrypt-ord 
+
 Install Material-UI : npm install @mui/material @emotion/react @emotion/styled
+
 Compile the contracts :npx scrypt-cli@latest compile
 
 AUTOCHAINTRADE APP
