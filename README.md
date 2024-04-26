@@ -18,7 +18,7 @@ Compile the contracts :npx scrypt-cli@latest compile
 
 AUTOCHAINTRADE APP
 
-AutoChainTrade, a decentralised automotive trading platform that Where innovation meets tradition in the world of automotive ownership. We're not just another car trading platform; we're revolutionizing the way people buy, sell, and own cars through the power of Ordinal NFTs (Non-Fungible Tokens)
+AutoChainTrade, a decentralised automotive trading platform that Where innovation meets tradition in the world of automotive ownership. It is not just another car trading platform; It is a platform revolutionizing the way people buy, sell, and own cars through the power of Ordinal NFTs (Non-Fungible Tokens). 
  With the rise of blockchain technology, our platform utilizes Ordinal NFTs to offer a secure and transparent way to buy and sell vehicles.
 
  What are ordinals?
